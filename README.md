@@ -42,6 +42,8 @@ The novelty in this research lies in its approach to dealing with the complexiti
 
 The research aims to further explore and refine these techniques to improve the robot's capabilities in manipulating sand and similar deformable environments. By leveraging advanced deep learning models and reinforcement learning strategies, the project seeks to achieve higher levels of autonomy and precision in robotic earth-moving tasks.
 
+![Environment Setup](https://github.com/anarbhagat/DeepSand-Bulldozer/blob/main/IMG_20240729_142707330%20(1).jpg?raw=true)
+
 ## Contact
 
 For more information, please contact:
